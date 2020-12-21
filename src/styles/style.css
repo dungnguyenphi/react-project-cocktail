@@ -132,7 +132,7 @@ p {
   text-align: center;
   height: 4rem;
   font-size: x-large;
-  background: chartreuse;
+  background: red;
 }
 
 .back-home-btn:hover {
@@ -182,8 +182,8 @@ p {
 }
 
 .details-btn {
-  background: green;
-  text-transform: uppercase;
+  background: red;
+  text-transform: capitalize;
   font-size: large;
   padding: 0.2rem 1rem;
   color: white;
